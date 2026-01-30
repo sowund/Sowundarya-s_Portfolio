@@ -10,7 +10,7 @@ const projects = [
     description: 'A full-stack marketplace platform where clients can post jobs, freelancers can bid on projects, and users can manage profiles and work securely.',
     image: 'https://images.unsplash.com/photo-1521737604893-d14cc237f11d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
     tags: ['React', 'Node.js', 'Express', 'MongoDB'],
-    github: 'https://github.com',
+    github: 'https://github.com/sowund/Freelancer_Website',
     demo: 'https://example.com',
   },
   {
@@ -19,7 +19,7 @@ const projects = [
     description: 'A food ordering web application with user authentication, restaurant listings, cart functionality, and order tracking.',
     image: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
     tags: ['React', 'Node.js', 'MongoDB', 'REST API'],
-    github: 'https://github.com',
+    github: 'https://github.com/sowund/Food-App',
     demo: 'https://example.com',
   },
   {
@@ -28,7 +28,7 @@ const projects = [
     description: 'A location-based news retrieval system that displays relevant news articles on an interactive map using geographic filters.',
     image: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
     tags: ['React+Vite','JavaScript', 'Maps API', 'News API'],
-    github: 'https://github.com',
+    github: 'https://github.com/sowund/Map_Based_News_Retrieval_System',
     demo: 'https://example.com',
   },
   {
@@ -37,7 +37,7 @@ const projects = [
     description: 'A machine learning system that predicts water quality based on environmental and chemical parameters to support environmental monitoring.',
     image: 'https://images.unsplash.com/photo-1501004318641-b39e6451bec6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
     tags: ['Python', 'Machine Learning', 'Data Analysis'],
-    github: 'https://github.com',
+    github: 'https://github.com/sowund/water_quality_prediction',
     demo: 'https://example.com',
   },
 ];

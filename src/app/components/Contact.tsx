@@ -28,13 +28,13 @@ const socialLinks = [
   {
     icon: Github,
     name: 'GitHub',
-    link: 'https://github.com',
+    link: 'https://github.com/sowund',
     color: 'hover:text-gray-900',
   },
   {
     icon: Linkedin,
     name: 'LinkedIn',
-    link: 'https://linkedin.com',
+    link: 'https://www.linkedin.com/in/sowundarya-r-0a92452a1/',
     color: 'hover:text-blue-600',
   }
 ];
