@@ -117,7 +117,7 @@ export function Hero() {
           className="flex gap-6 justify-center items-center"
         >
           <motion.a
-            href="https://github.com"
+            href="https://github.com/sowund"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.2, rotate: 5 }}
@@ -127,7 +127,7 @@ export function Hero() {
           </motion.a>
 
           <motion.a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/sowundarya-r-0a92452a1/"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.2, rotate: -5 }}
@@ -137,7 +137,7 @@ export function Hero() {
           </motion.a>
 
           <motion.a
-            href="mailto:your.email@example.com"
+            href="mailto:sowund19@gmail.com"
             whileHover={{ scale: 1.2, rotate: 5 }}
             className="text-gray-300 hover:text-white transition-colors"
           >
