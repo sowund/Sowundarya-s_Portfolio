@@ -4,30 +4,39 @@ import { useRef } from 'react';
 
 const skillCategories = [
   {
+    category: 'Programming & Core',
+    skills: [
+      { name: 'Java (Core Concepts & OOPS)', level: 90 },
+      { name: 'Data Structures & Algorithms', level: 90 },
+      { name: 'SQL (MySQL)', level: 85 },
+    
+  },
+  {
     category: 'Frontend',
     skills: [
-      {name:'HTMl5',level:95},
-      { name: 'React', level: 80 },
-       { name: 'Bootstrap CSS', level: 92 },
-      { name: 'JavaScript', level: 75 }
-     
+      { name: 'HTML5', level: 85 },
+      { name: 'CSS3 / Bootstrap', level: 80 },
+      { name: 'JavaScript', level: 75 },
+      { name: 'React.js', level: 80 },
     ],
   },
   {
     category: 'Backend',
     skills: [
-      { name: 'Node.js', level: 88 },
-      { name: 'Express.js', level: 82 },
-      { name: 'MongoDB', level: 80 },
+      { name: 'Node.js', level: 80 },
+      { name: 'Express.js', level: 78 },
+      { name: 'MongoDB', level: 75 },
+      { name: 'RESTful APIs', level: 82 },
     ],
   },
   {
-    category: 'Tools & Others',
+    category: 'Tools & Deployment',
     skills: [
-      { name: 'Git', level: 90 },
-      { name: 'GitHub', level: 78 },
-      { name: 'VS Code', level: 75 },
-      { name: 'Figma', level: 88 },
+      { name: 'Git & GitHub', level: 80 },
+      { name: 'Postman', level: 75 },
+      { name: 'VS Code', level: 85 },
+      { name: 'AWS (Basics)', level: 60 },
+      { name: 'Vercel / Render', level: 70 },
     ],
   },
 ];
