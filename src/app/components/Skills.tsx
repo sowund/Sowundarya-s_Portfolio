@@ -9,7 +9,7 @@ const skillCategories = [
       { name: 'Java (Core Concepts & OOPS)', level: 90 },
       { name: 'Data Structures & Algorithms', level: 90 },
       { name: 'SQL (MySQL)', level: 85 },
-    
+    ],
   },
   {
     category: 'Frontend',
