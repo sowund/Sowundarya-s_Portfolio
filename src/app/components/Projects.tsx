@@ -21,7 +21,7 @@ const projects = [
     ],
     github:
       'https://github.com/sowund/Map_Based_News_Retrieval_System',
-    demo: '#', // replace if you deploy
+   
   },
   {
     id: 2,
@@ -40,7 +40,7 @@ const projects = [
     ],
     github:
       'https://github.com/sowund/secure-role-based-access-control', // update if needed
-    demo: '#',
+   
   },
   {
     id: 3,
@@ -59,7 +59,7 @@ const projects = [
     ],
     github:
       'https://github.com/sowund/banking-management-system', 
-    demo: '#',
+   
   },
 ];
 export function Projects() {
